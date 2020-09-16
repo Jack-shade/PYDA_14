@@ -1,0 +1,4 @@
+https://pastenow.ru/A4V1W - Установленный Jupyter
+https://pastenow.ru/A4V0T - git Основы
+https://pastenow.ru/A4V14 - git Удаленные репозитории
+https://github.com/Jack-shade/PYDA_14/tree/master/homework - для ДЗ
